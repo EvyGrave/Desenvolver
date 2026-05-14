@@ -1,4 +1,3 @@
-# Desenvolver.py
 import time
 
 # Criando uma lista de 10 milhões de números
